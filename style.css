@@ -1,0 +1,18 @@
+.body{
+ position: relative;
+}
+.quad1{
+    position: static;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 4, 243);
+    
+
+}
+.quad2{
+    position: absolute;
+    width: 100px;
+    background-color:#f30000ff;
+     height: 100px;
+}
+}
